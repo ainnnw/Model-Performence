@@ -12,7 +12,7 @@ Ensemble Model menggabungkan beberapa model untuk mendapatkan prediksi yang lebi
 ## 3. Hyperparameter Tuning
 Hyperparameter Tuning adalah proses mengoptimalkan hyperparameter model yang ditetapkan sebelum pelatihan. Tidak seperti parameter model, hyperparameter tidak dipelajari selama pelatihan, tetapi harus disetel secara manual.
 
-Hasil Pemodelan
+# Hasil Pemodelan<br>
 ![Model up performance ](https://github.com/user-attachments/assets/323eea84-4a50-4c60-b798-f0fe3f689e72)
 
 Dari hasil model terbaik menggunkan metode assably model dengan cara menggabungkan model seeprti digambar.<br>
